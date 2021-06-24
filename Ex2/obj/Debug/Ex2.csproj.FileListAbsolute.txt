@@ -1,0 +1,6 @@
+C:\Users\pc\RiderProjects\Lab8New\Ex2\bin\Debug\Ex2.exe
+C:\Users\pc\RiderProjects\Lab8New\Ex2\bin\Debug\Ex2.pdb
+C:\Users\pc\RiderProjects\Lab8New\Ex2\obj\Debug\Ex2.csprojAssemblyReference.cache
+C:\Users\pc\RiderProjects\Lab8New\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\pc\RiderProjects\Lab8New\Ex2\obj\Debug\Ex2.exe
+C:\Users\pc\RiderProjects\Lab8New\Ex2\obj\Debug\Ex2.pdb
